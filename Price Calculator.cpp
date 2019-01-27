@@ -1,10 +1,3 @@
-/*Name: Kevin Davis
-Course: CS1044, Spring 2018, Dr.Johnson
-Purpose:This program allows a user to input the type of tickets they would
-like and then it will calculate the total cost of the tickets
-along with the associated taxes and show a detailed printout
-to the user.*/
-
 //libraries needed for this program
 #include <iostream>
 #include <iomanip>
