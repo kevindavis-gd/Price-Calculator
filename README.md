@@ -1,2 +1,6 @@
-# Price-Calculator-C-
-Calculates the price of tickets for an event
+# Price-Calculator-C++
+
+Purpose:This program allows a user to input the type of tickets they would
+like, it then calculates the total cost of the tickets
+along with the associated taxes and show a detailed printout
+to the user.
