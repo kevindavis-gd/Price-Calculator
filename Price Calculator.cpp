@@ -24,8 +24,6 @@ int main()
 
 	//information about program printed on screen
 	//double line spacing for apperance
-	cout << "Name:Kevin Davis\n";
-	cout << "Course:CS1044, Spring 2018, Dr.Johnson\n\n";
 	cout << "Purpose:This program allows a user to input the type of tickets\n";
 	cout << "they would like and then it will calculate the total cost \n";
 	cout << "of the tickets along with the associated taxes and show a \n";
